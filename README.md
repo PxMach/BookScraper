@@ -3,7 +3,7 @@
 
 Ce projet consiste à développer un script de web scraping en Python permettant d’extraire automatiquement des données (titres et prix de livres) depuis le site Books to Scrape, puis de les enregistrer dans un fichier CSV.
 
-🚀 Fonctionnalités:
+## 🚀 Fonctionnalités:
 -Extraction des titres de livres
 -Extraction des prix
 -Association titre + prix
