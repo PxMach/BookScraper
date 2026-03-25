@@ -9,10 +9,16 @@ Ce projet consiste à développer un script de web scraping en Python permettant
 -Association titre + prix
 -Export des données dans un fichier CSV (data.csv)
 
-🛠️ Technologies utilisées:
+## 🛠️ Technologies utilisées:
 -Python 3
 -requests (requêtes HTTP)
 -BeautifulSoup (parsing HTML)
 -csv (export de données)
+
+## 🔧 Améliorations possibles
+-Scraper plusieurs pages (pagination)
+-Ajouter la note des livres ⭐
+-Extraire les liens vers chaque livre
+-Sauvegarder dans une base de données
 
 Projet réalisé par Machghour
